@@ -14,7 +14,7 @@ const { Client, Collection, Intents } = require('discord.js');
 const fs = require("fs");
 const { loadCommands } = require("./handler/loadcommands");
 const { readdirSync } = require('fs');
-const { TOKEN } = require('./util/config.json');
+const { TOKENN } = require('./util/config.json');
 
 //client
 const client = new Client({
@@ -71,4 +71,4 @@ client.on('warn', console.warn);
 client.on('error', console.error);
 
 //token
-client.login(process.env.TOKEN);
+client.login(process.env.TOKENN);
