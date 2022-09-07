@@ -1,11 +1,11 @@
 {
-  "PREFIX": "",
-  "TOKEN": "",
-  "ID_CHANNEL": "",
-  "TAG": "{MEMBER}",
-  "ID_ROLE": "",
+  "PREFIX": "/",
+  "TOKENN": "MTAxNzEwMTE3NjE2MTk2ODE5OQ.GlGm-j.LdDWdbHouaHLUmoGDjMFI6TA3DSq05mTMgY7iQ",
+  "ID_CHANNEL": "1017060158305751040",
+  "TAG": "[ Humman ]",
+  "ID_ROLE": "1013474319197818962",
   "ID_ROLE_REMOVE": "",
-  "STATUS": "TESTING",
-  "TYPE_STATUS": "PLAYING"
+  "STATUS": "Tes",
+  "TYPE_STATUS": "STREAMING"
 }
 
